@@ -3,7 +3,7 @@
 ## 1.安装
 
     ```
-    npm init -y  //创建一个空项目
+    npm init -y  //创建一个空项目  可
     npm install --save-dev webpack
     npm install --save-dev webpack-cli
     ```
